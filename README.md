@@ -1,9 +1,9 @@
-# demo -reproductibility-2024
-For Demsotrating collaboration
+#Mabel Alsinba 1st GitRepo
+
+For Demonstrating collaboration
 
 Participants:
 
- -Eric R. Scott
- -Renata Diaz
- -MAbel Alsina
- 
+-Eric R. Scott
+-Renata Diaz
+-MAbel Alsina
